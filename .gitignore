@@ -3,3 +3,6 @@ body/**/**/*.tiff
 
 # Ignore large .tiff files in the 'body' directory itself
 body/**/*.tiff
+
+#Ignore .DS_Store files
+*.DS_Store
