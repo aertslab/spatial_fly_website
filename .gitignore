@@ -1,0 +1,5 @@
+# Ignore large .tiff files in subfolders of the 'body' directory
+body/**/**/*.tiff
+
+# Ignore large .tiff files in the 'body' directory itself
+body/**/*.tiff
